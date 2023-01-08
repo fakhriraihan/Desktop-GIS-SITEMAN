@@ -1,0 +1,108 @@
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.cpg
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.dbf
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.Desa.atx
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.idm
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.ind
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.sbn
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.sbx
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.shp
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.shx
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Desa_Admin.cpg
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Desa_Admin.dbf
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Desa_Admin.prj
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Desa_Admin.sbn
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Desa_Admin.sbx
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Desa_Admin.shp
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Desa_Admin.shx
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.cpg
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.dbf
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.prj
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.sbn
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.sbx
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.shp
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.shx
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Non-Spatial\Foto\hospital.png
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Non-Spatial\Foto\puskesmas pembantu.png
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Non-Spatial\Foto\puskesmas.png
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Non-Spatial\Icon\Puskesmas Pembantu.png
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Non-Spatial\Icon\Puskesmas.png
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Non-Spatial\Icon\RS.png
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.shp.xml
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.shp.xml
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\SI TEMAN2.exe.config
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\SI TEMAN2.exe
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\SI TEMAN2.pdb
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Control.Draggable.dll
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\MetroSet UI.dll
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\MWLite.Symbology.dll
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Interop.MapWinGIS.dll
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\AxInterop.MapWinGIS.dll
+D:\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\stdole.dll
+D:\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\Interop.MapWinGIS.dll
+D:\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\AxInterop.MapWinGIS.dll
+D:\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI TEMAN2.csproj.ResolveComReference.cache
+D:\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI_TEMAN2.FormAddPoint.resources
+D:\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI_TEMAN2.FormBuffer.resources
+D:\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI_TEMAN2.FormPopUp.resources
+D:\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI_TEMAN2.FormUtama.resources
+D:\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI_TEMAN2.Properties.Resources.resources
+D:\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI TEMAN2.csproj.GenerateResource.cache
+D:\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI TEMAN2.csproj.CoreCompileInputs.cache
+D:\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI TEMAN2.csproj.CopyComplete
+D:\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI TEMAN2.exe
+D:\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI TEMAN2.pdb
+D:\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI TEMAN2.csproj.AssemblyReference.cache
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.cpg
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.dbf
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.Desa.atx
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.idm
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.ind
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.sbn
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.sbx
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.shp
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.shx
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Desa_Admin.cpg
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Desa_Admin.dbf
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Desa_Admin.prj
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Desa_Admin.sbn
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Desa_Admin.sbx
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Desa_Admin.shp
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Desa_Admin.shx
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.cpg
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.dbf
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.prj
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.sbn
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.sbx
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.shp
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.shx
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Non-Spatial\Foto\hospital.png
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Non-Spatial\Foto\puskesmas pembantu.png
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Non-Spatial\Foto\puskesmas.png
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Non-Spatial\Icon\Puskesmas Pembantu.png
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Non-Spatial\Icon\Puskesmas.png
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Non-Spatial\Icon\RS.png
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Aset_Kesehatan.shp.xml
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Resources\Database\Spatial\Jalanan.shp.xml
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\SI TEMAN2.exe.config
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\SI TEMAN2.exe
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\SI TEMAN2.pdb
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Control.Draggable.dll
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\MetroSet UI.dll
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\MWLite.Symbology.dll
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\Interop.MapWinGIS.dll
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\AxInterop.MapWinGIS.dll
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\bin\x86\Debug\stdole.dll
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI TEMAN2.csproj.AssemblyReference.cache
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\Interop.MapWinGIS.dll
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\AxInterop.MapWinGIS.dll
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI TEMAN2.csproj.ResolveComReference.cache
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI_TEMAN2.FormAddPoint.resources
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI_TEMAN2.FormBuffer.resources
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI_TEMAN2.FormPopUp.resources
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI_TEMAN2.FormUtama.resources
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI_TEMAN2.Properties.Resources.resources
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI TEMAN2.csproj.GenerateResource.cache
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI TEMAN2.csproj.CoreCompileInputs.cache
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI TEMAN2.csproj.CopyComplete
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI TEMAN2.exe
+E:\kulyeah\SEMESTER 3\Simpan\PSD ACARA 10\SI TEMAN2\obj\x86\Debug\SI TEMAN2.pdb
